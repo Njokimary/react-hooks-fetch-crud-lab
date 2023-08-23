@@ -35,7 +35,7 @@ Then, in a new terminal tab, run `npm start` to run the React application.
 
 When the application loads, get all the questions from
 `http://localhost:4000/questions` and display them using the `QuestionList`
-component.
+component.  
 
 You'll need to add `useState` and `useEffect` for this deliverable, but it's up
 to you to decide where it belongs! Think about which components will need access
